@@ -1,3 +1,7 @@
+## 7.6.13
+
+- Webpack: Update StorybookConfig import in core-webpack types.ts - [#25740](https://github.com/storybookjs/storybook/pull/25740), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
+
 ## 7.6.12
 
 - CLI: Fix `upgrade` detecting the wrong version of existing Storybooks - [#25752](https://github.com/storybookjs/storybook/pull/25752), thanks [@JReinhold](https://github.com/JReinhold)!
